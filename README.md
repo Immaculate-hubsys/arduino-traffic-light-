@@ -20,8 +20,8 @@ and state machine pattern on Arduino Uno.
 - Serial Monitor debugging
 
 ## How It Works
-STOP (Red) stays on for 3 seconds, switches to PASS (Green) 
-for 3 seconds, then READY (Orange) for 1 second, 
+STOP (Red) stays on for 3 seconds, switches to READY (Orange) 
+for 1 seconds, then PASS (Green) for 3 second, 
 then back to STOP — all without delay().
 
 ## Simulation
